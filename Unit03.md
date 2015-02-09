@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO401: Biochemistry"
+course_description: "An examination of the biological and chemical processes necessary to sustain life. Topics include: the structure and synthesis of amino acids and proteins, enzymatic activity, regulation and production of enzymes, the structure and function of carbohydrates, nucleic acids, and lipids, DNA, RNA, cellular metabolism, the biochemistry of genes and chromosomes, biochemical signaling, and laboratory techniques."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Proteins** <span id="3"></span> 
 *Proteins, as you know are the large, complex molecules that are made of
 amino acids, so this unit is a natural follow-up to the previous one.

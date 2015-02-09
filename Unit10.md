@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO401: Biochemistry"
+course_description: "An examination of the biological and chemical processes necessary to sustain life. Topics include: the structure and synthesis of amino acids and proteins, enzymatic activity, regulation and production of enzymes, the structure and function of carbohydrates, nucleic acids, and lipids, DNA, RNA, cellular metabolism, the biochemistry of genes and chromosomes, biochemical signaling, and laboratory techniques."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Biochemistry of Signaling** <span id="10"></span> 
 *All organisms share some sophisticated and complex pathways to respond
 to the internal and external changes of their environment. There is a

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO401: Biochemistry"
+course_description: "An examination of the biological and chemical processes necessary to sustain life. Topics include: the structure and synthesis of amino acids and proteins, enzymatic activity, regulation and production of enzymes, the structure and function of carbohydrates, nucleic acids, and lipids, DNA, RNA, cellular metabolism, the biochemistry of genes and chromosomes, biochemical signaling, and laboratory techniques."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: Biochemistry Techniques** <span id="11"></span> 
 *Our final unit looks at some common laboratory techniques used to study
 biochemistry topics. Because much of biochemistry research revolves

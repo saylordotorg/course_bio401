@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO401: Biochemistry"
+course_description: "An examination of the biological and chemical processes necessary to sustain life. Topics include: the structure and synthesis of amino acids and proteins, enzymatic activity, regulation and production of enzymes, the structure and function of carbohydrates, nucleic acids, and lipids, DNA, RNA, cellular metabolism, the biochemistry of genes and chromosomes, biochemical signaling, and laboratory techniques."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Nucleic Acids** <span id="6"></span> 
 *Our last building block is nucleic acids. There are two types of
 nucleotides and five basic nucleobases that are you familiar with. As

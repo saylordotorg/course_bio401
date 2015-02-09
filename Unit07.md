@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO401: Biochemistry"
+course_description: "An examination of the biological and chemical processes necessary to sustain life. Topics include: the structure and synthesis of amino acids and proteins, enzymatic activity, regulation and production of enzymes, the structure and function of carbohydrates, nucleic acids, and lipids, DNA, RNA, cellular metabolism, the biochemistry of genes and chromosomes, biochemical signaling, and laboratory techniques."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Lipids** <span id="7"></span> 
 *Lipids are the last molecular building blocks that we cover in this
 course. They are a very diverse group of molecules, all classified

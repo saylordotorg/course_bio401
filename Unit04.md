@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO401: Biochemistry"
+course_description: "An examination of the biological and chemical processes necessary to sustain life. Topics include: the structure and synthesis of amino acids and proteins, enzymatic activity, regulation and production of enzymes, the structure and function of carbohydrates, nucleic acids, and lipids, DNA, RNA, cellular metabolism, the biochemistry of genes and chromosomes, biochemical signaling, and laboratory techniques."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Enzymes** <span id="4"></span> 
 *Enzymes are extremely important to life; toxins that destroy enzymes
 are almost always lethal. Enzymes, as you already know, speed up
