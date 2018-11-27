@@ -53,7 +53,7 @@ Upon successful completion of this unit, students will be able to:
 **3.1.1 Conformational Restraints** <span id="3.1.1"></span> 
 -   **Reading: WikiBooks: Biochemistry: "Proteins"**
     Link: WikiBooks: *Biochemistry*:
-    "[Proteins](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO401_Wikibooks_Proteins_2.7.2012.pdf)"
+    "[Proteins](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikibooks_Proteins_2.7.2012.pdf)"
     (PDF)  
         
      Instructions: Read the intoduction to protein structure focusing on
