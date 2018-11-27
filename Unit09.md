@@ -108,7 +108,7 @@ video clips to be found that can be of great help.*
 **9.2.6 Transposable Element Recombination** <span id="9.2.6"></span> 
 -   **Reading: Wikipedia: “Transposon”**
     Link: Wikipedia:
-    “[Transposon](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO401_Wikipedia_Transposable-elements_2.7.2012.pdf)”
+    “[Transposon](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikipedia_Transposable-elements_2.7.2012.pdf)”
     (PDF)  
         
      Instructions: Read this entry to learn about the function of

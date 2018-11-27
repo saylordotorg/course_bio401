@@ -177,7 +177,7 @@ id="11.2.3"></span> 
 **11.4.3 DNase Footprinting Assay** <span id="11.4.3"></span> 
 -   **Reading: Wikipedia: "DNase footprinting assay"**
     Link: Wikipedia: "[DNase footprinting
-    assay](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO401_Wikipedia_DNase-footprinting-assay_2.7.2012.pdf)"
+    assay](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikipedia_DNase-footprinting-assay_2.7.2012.pdf)"
     (PDF)  
         
      Instructions: Read about the method of DNase footprinting.  
@@ -205,7 +205,7 @@ id="11.2.3"></span> 
 **11.5.2 Comparative Studies** <span id="11.5.2"></span> 
 -   **Reading: Wikipedia: "Bioinformatics"**
     Link: Wikipedia:
-    "[Bioinformatics](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO401_Wikipedia_Bioinformatics_2.7.2012.pdf)"
+    "[Bioinformatics](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikipedia_Bioinformatics_2.7.2012.pdf)"
     (PDF)  
         
      Instructions: Read about the field of bioinformatics and how this
@@ -220,7 +220,7 @@ id="11.2.3"></span> 
 **11.5.3 Systems Biology** <span id="11.5.3"></span> 
 -   **Reading: Wikipedia: "Systems Biology"**
     Link: Wikipedia: "[Systems
-    Biology](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO401_Wikipedia_Systems-biology_2.7.2012.pdf)"
+    Biology](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikipedia_Systems-biology_2.7.2012.pdf)"
     (PDF)  
         
      Instructions: Read about the trend of systems biology.  Click on

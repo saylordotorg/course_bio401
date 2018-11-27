@@ -346,7 +346,7 @@ id="8.11.1"></span> 
 **8.12.3 Ketone Bodies** <span id="8.12.3"></span> 
 -   **Reading: Wikipedia: "Ketone Bodies"**
     Link: Wikipedia: "[Ketone
-    Bodies](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO401_Wikipedia_Ketone-bodies_2.7.2012.pdf)"
+    Bodies](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikipedia_Ketone-bodies_2.7.2012.pdf)"
     (PDF)  
         
      Instructions: This entry will explain the importance of ketone

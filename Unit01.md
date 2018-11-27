@@ -31,7 +31,7 @@ Upon successful completion of this unit, students will be able to:
 **1.1.1 Covalent Bonds** <span id="1.1.1"></span> 
 -   **Reading: Wikibooks: Stuctural Biochemisty: "Chemical Bonding"**
     Link: Wikibooks: *Stuctural Biochemistry: "*[Chemical
-    Bonding](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO401_Wikibooks_Chemical-Bonding_2.7.2012.pdf)"
+    Bonding](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikibooks_Chemical-Bonding_2.7.2012.pdf)"
     (PDF)  
         
      Instructions: Read the section to review chemical bonding

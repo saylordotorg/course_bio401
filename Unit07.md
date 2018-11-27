@@ -115,7 +115,7 @@ Upon successful completion of this unit, students will be able to:
 **7.4.3 Eicasinoids** <span id="7.4.3"></span> 
 -   **Reading: Wikipedia: “Eicosanoid”**
     Link: Wikipedia:
-    “[Eicosanoid](http://www.saylor.org/site/wp-content/uploads/2012/02/BIO401_Wikipedia_Eicosanoi_2.7.2012.pdf)”
+    “[Eicosanoid](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikipedia_Eicosanoi_2.7.2012.pdf)”
     (PDF)  
         
      Instructions: Read about another type of signaling lipid, the
