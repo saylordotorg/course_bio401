@@ -122,7 +122,7 @@ Upon successful completion of this unit, students will be able to:
 **10.3.2 Guanylyl Cyclase Receptors** <span id="10.3.2"></span> 
 -   **Reading: Wikipedia: "Guanylate cyclase"**
     Link: Wikipedia: "[Guanylate
-    cyclase](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikipedia_Guanylate-cyclase_2.7.2012.pdf)"
+    cyclase](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/BIO401_Wikipedia_Guanylate-cyclase_2.7.2012.pdf)"
     (PDF)  
         
      Instructions: Review, briefly, the function of guanylyl cyclase

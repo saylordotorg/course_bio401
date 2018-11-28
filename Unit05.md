@@ -197,7 +197,7 @@ Upon successful completion of this unit, students will be able to:
 **5.7.4 Proteoglycans** <span id="5.7.4"></span> 
 -   **Reading: Wikipedia: “Proteoglycan”**
     Link: Wikipedia:
-    “[Proteoglycan](https://resources.saylor.org/archived/wp-content/uploads/2012/02/BIO401_Wikipedia_Proteoglyca_2.7.2012.pdf)”
+    “[Proteoglycan](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/BIO401_Wikipedia_Proteoglyca_2.7.2012.pdf)”
     (PDF)  
         
      Instructions: Read about proteoglycan function and structure.  
